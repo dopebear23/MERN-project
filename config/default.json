@@ -1,3 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://dopebear23:dopebear23@apnalinkedin.nagdk.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://dopebear23:dopebear23@apnalinkedin.nagdk.mongodb.net/<dbname>?retryWrites=true&w=majority",
+
+  "jwtSecret": "mySecurekey"
 }
