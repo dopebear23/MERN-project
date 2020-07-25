@@ -1,5 +1,7 @@
 {
   "mongoURI": "mongodb+srv://dopebear23:dopebear23@apnalinkedin.nagdk.mongodb.net/<dbname>?retryWrites=true&w=majority",
 
-  "jwtSecret": "mySecurekey"
+  "jwtSecret": "mySecurekey",
+  "githubClientId": "2664e14418169134282c",
+  "githubSecret": "d1fb5e9fa84df29d9c1160adebabbdf796598f55"
 }
